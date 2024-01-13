@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    position: relative;
+    background-color: #09080C;
+}
+.container{
+    width: 50%;
+    margin: auto auto;
+    min-height: 600px;
+    background-color:#09080C ;
+    padding-left: 30px;
+    padding-top: 20px;
+    border:1px solid #30333F;
+    margin-top: 20px
+}
+h2{
+    color: #fff;
+    margin: 30px 0px;
+}
+.container .section1{
+    color: #686E73;
+}
+.container .section1 h2{
+    margin-bottom: 0px;
+}
+.container .section1 p {
+    color: #686E73;
+    width: 50%;
+    margin-bottom: 20px;
+}
+.container .section2 form label{
+    color: #fff;
+}
+.container .section2 form input{
+    border: 1px solid blue;
+    background-color: #000;
+    height: 30px;
+    width: 50%;
+    border-radius: 5px;
+}
+.container .section2 button{
+    height: 30px;
+    width: 50%;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #30333F;
+    border: 0;
+    margin-bottom: 10px;
+    padding-top: 5px;
+}
+.container .section2 .btn1 button {
+    background-color: blue;
+    height: 30px;
+    margin-top: 15px;
+    border: 0px;
+}
+.container .section2 .or{
+    color: #fff;
+    display: flex;
+}
+.container .section2 .or h3{
+    padding: 0 5px;
+}
+.container .section2 .line{
+    background-color: #686E73;
+    width: 21.5%;
+    height: 0.5px;
+    margin-top: 10px;
+}
+.container .section2 .btn2 button .bt1 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+
+}
+.container .section2 .btn2 button .bt1 img{  
+    width: 8%;
+    margin-right: 80px;
+    margin-left: 1px;
+}
+
+.container .section2 .btn3 button .bt2{
+    width: 100%;
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.container .section2 .btn3 button .bt2 img{  
+    width: 6%;   
+    margin-left: 140px;
+}
+.container .section3 .box1{
+    text-align: center;
+    color: #fff;
+}
+.container .section3{
+    text-align: center;
+    width: 50%;
+}
+.container .section3 a{
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+    padding-bottom: 5px;
+}
+
+
