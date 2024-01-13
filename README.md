@@ -1,0 +1,2 @@
+# coinbase
+new coin
